@@ -1,6 +1,6 @@
 name: histoire
 description: A history of Everythinbg remake with android focus
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
@@ -43,18 +43,18 @@ flutter:
       fonts:
         - asset: assets/fonts/Roboto-Medium.ttf
   assets:
-  # App Icons
+    # App Icons
     - assets/app_icons/
     - assets/app_icons/android/
     - assets/app_icons/ios/
 
-  #Articles as Text
+    #Articles as Text
     - assets/articles/
 
-  #JSON files
+    #JSON files
     - assets/json/
 
-  # Images and nima assets
+    # Images and nima assets
     - assets/inages/agricultural_evolution/
     - assets/inages/alan_turing/
     - assets/inages/amelia_earhart/
@@ -91,4 +91,3 @@ flutter:
     - assets/inages/world_war_1/
     - assets/inages/world_war_2/
     - assets/inages/writing/
-
