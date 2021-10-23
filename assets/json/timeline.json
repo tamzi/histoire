@@ -3,56 +3,17 @@
     "date": -13800000000,
     "label": "Big Bang",
     "article": "big_bang.txt",
-    "background": [
-      0,
-      38,
-      75
-    ],
-    "accent": [
-      246,
-      76,
-      130,
-      255
-    ],
+    "background": [0, 38, 75],
+    "accent": [246, 76, 130, 255],
     "ticks": {
-      "background": [
-        20,
-        57,
-        92,
-        240
-      ],
-      "long": [
-        255,
-        255,
-        255,
-        75
-      ],
-      "short": [
-        255,
-        255,
-        255,
-        51
-      ],
-      "text": [
-        255,
-        255,
-        255,
-        157
-      ]
+      "background": [20, 57, 92, 240],
+      "long": [255, 255, 255, 75],
+      "short": [255, 255, 255, 51],
+      "text": [255, 255, 255, 157]
     },
     "header": {
-      "background": [
-        11,
-        47,
-        81,
-        94
-      ],
-      "text": [
-        255,
-        255,
-        255,
-        157
-      ]
+      "background": [11, 47, 81, 94],
+      "text": [255, 255, 255, 157]
     },
     "asset": {
       "source": "Big_Bang/Big_Bang.flr",
@@ -61,12 +22,7 @@
       "offset": 1500,
       "gap": -1000,
       "loop": false,
-      "bounds": [
-        -1814,
-        -1810,
-        1814,
-        1810
-      ]
+      "bounds": [-1814, -1810, 1814, 1810]
     }
   },
   {
@@ -79,24 +35,14 @@
       "width": 1293,
       "height": 1210,
       "scale": 0.5,
-      "bounds": [
-        -1616.5,
-        -115,
-        -323.5,
-        1095
-      ]
+      "bounds": [-1616.5, -115, -323.5, 1095]
     }
   },
   {
     "date": -4600000000,
     "label": "Sun is Born",
     "article": "sun.txt",
-    "accent": [
-      255,
-      166,
-      20,
-      255
-    ],
+    "accent": [255, 166, 20, 255],
     "asset": {
       "source": "Sun.flr",
       "width": 800,
@@ -104,12 +50,7 @@
       "offset": -100,
       "intro": "Sun_in",
       "idle": "Sun_idle",
-      "bounds": [
-        -400,
-        -400,
-        400,
-        400
-      ]
+      "bounds": [-400, -400, 400, 400]
     }
   },
   {
@@ -122,86 +63,37 @@
       "height": 1210,
       "scale": 0.25,
       "idle": "Earth_is_born",
-      "bounds": [
-        -581,
-        -633,
-        629,
-        577
-      ]
+      "bounds": [-581, -633, 629, 577]
     }
   },
   {
     "date": -4100000000,
     "label": "Heavy Bombardment",
     "article": "bombardment.txt",
-    "accent": [
-      255,
-      63,
-      0,
-      255
-    ],
+    "accent": [255, 63, 0, 255],
     "asset": {
       "source": "HeavyBombardment.flr",
       "width": 3774,
       "height": 2675,
       "scale": 0.25,
       "idle": "Bombardmnet",
-      "bounds": [
-        -598,
-        -2075.5,
-        3176,
-        599.5
-      ]
+      "bounds": [-598, -2075.5, 3176, 599.5]
     }
   },
   {
     "start": -4000000000,
     "label": "Life on Earth",
     "article": "life_on_earth.txt",
-    "background": [
-      31,
-      89,
-      143
-    ],
+    "background": [31, 89, 143],
     "ticks": {
-      "background": [
-        27,
-        79,
-        128,
-        240
-      ],
-      "long": [
-        255,
-        255,
-        255,
-        75
-      ],
-      "short": [
-        255,
-        255,
-        255,
-        51
-      ],
-      "text": [
-        255,
-        255,
-        255,
-        157
-      ]
+      "background": [27, 79, 128, 240],
+      "long": [255, 255, 255, 75],
+      "short": [255, 255, 255, 51],
+      "text": [255, 255, 255, 157]
     },
     "header": {
-      "background": [
-        27,
-        79,
-        128,
-        240
-      ],
-      "text": [
-        255,
-        255,
-        255,
-        157
-      ]
+      "background": [27, 79, 128, 240],
+      "text": [255, 255, 255, 157]
     },
     "asset": {
       "source": "HeavyBombardment.flr",
@@ -211,12 +103,7 @@
       "idle": "Life on Earth",
       "scale": 0.5,
       "offset": 500,
-      "bounds": [
-        -581,
-        -633,
-        629,
-        577
-      ]
+      "bounds": [-581, -633, 629, 577]
     }
   },
   {
@@ -238,63 +125,19 @@
       "width": 814,
       "height": 564,
       "offset": -100,
-      "bounds": [
-        0,
-        0,
-        814,
-        664
-      ]
+      "bounds": [0, 0, 814, 664]
     },
-    "background": [
-      132,
-      175,
-      214
-    ],
-    "accent": [
-      55,
-      134,
-      222,
-      255
-    ],
+    "background": [132, 175, 214],
+    "accent": [55, 134, 222, 255],
     "ticks": {
-      "background": [
-        113,
-        152,
-        188,
-        240
-      ],
-      "long": [
-        255,
-        255,
-        255,
-        75
-      ],
-      "short": [
-        255,
-        255,
-        255,
-        51
-      ],
-      "text": [
-        255,
-        255,
-        255,
-        157
-      ]
+      "background": [113, 152, 188, 240],
+      "long": [255, 255, 255, 75],
+      "short": [255, 255, 255, 51],
+      "text": [255, 255, 255, 157]
     },
     "header": {
-      "background": [
-        113,
-        152,
-        188,
-        240
-      ],
-      "text": [
-        255,
-        255,
-        255,
-        157
-      ]
+      "background": [113, 152, 188, 240],
+      "text": [255, 255, 255, 157]
     }
   },
   {
@@ -302,35 +145,20 @@
     "label": "Fish",
     "article": "fish.txt",
     "id": "fish",
-    "accent": [
-      55,
-      134,
-      222,
-      255
-    ],
+    "accent": [55, 134, 222, 255],
     "asset": {
       "source": "Fish_and_Stuff/Fish_and_Stuff.nma",
       "width": 1290,
       "height": 650,
       "scale": 0.65,
-      "bounds": [
-        -549,
-        -5,
-        741,
-        645
-      ]
+      "bounds": [-549, -5, 741, 645]
     }
   },
   {
     "date": -396000000,
     "label": "Insects",
     "article": "insects.txt",
-    "accent": [
-      55,
-      134,
-      222,
-      255
-    ],
+    "accent": [55, 134, 222, 255],
     "asset": {
       "source": "Insects/Insects.nma",
       "width": 800,
@@ -341,12 +169,7 @@
     "date": -312000000,
     "label": "Reptiles",
     "article": "reptiles.txt",
-    "accent": [
-      55,
-      134,
-      222,
-      255
-    ],
+    "accent": [55, 134, 222, 255],
     "asset": {
       "source": "Reptiles/Reptiles.nma",
       "width": 400,
@@ -371,12 +194,7 @@
     "date": -150000000,
     "label": "Stegosaurus",
     "article": "stegosaurus.txt",
-    "accent": [
-      235,
-      155,
-      75,
-      255
-    ],
+    "accent": [235, 155, 75, 255],
     "asset": {
       "source": "Dinosaurs/Dinosaurs.nma",
       "width": 800,
@@ -401,12 +219,7 @@
     "date": -68000000,
     "label": "Tyrannosaurus",
     "article": "trex.txt",
-    "accent": [
-      235,
-      155,
-      75,
-      255
-    ],
+    "accent": [235, 155, 75, 255],
     "asset": {
       "source": "Trex.flr",
       "width": 800,
@@ -418,12 +231,7 @@
     "date": -65000001,
     "label": "Dinosaur Extinction",
     "article": "dino_extinction.txt",
-    "accent": [
-      235,
-      155,
-      75,
-      255
-    ],
+    "accent": [235, 155, 75, 255],
     "asset": {
       "source": "Dinosaur_Demise/Dinosaur_Demise.nma",
       "width": 700,
@@ -435,75 +243,25 @@
     "start": -6000000,
     "label": "Humans",
     "article": "humans.txt",
-    "background": [
-      255,
-      255,
-      255
-    ],
-    "accent": [
-      202,
-      79,
-      63,
-      255
-    ],
+    "background": [255, 255, 255],
+    "accent": [202, 79, 63, 255],
     "asset": {
       "source": "humans.flr",
       "width": 1068,
       "height": 670,
       "offset": 0,
-      "bounds": [
-        -534,
-        -670,
-        1602,
-        670
-      ],
-      "idle": [
-        "human_1",
-        "human_2",
-        "human_3",
-        "human_4",
-        "human_5"
-      ]
+      "bounds": [-534, -670, 1602, 670],
+      "idle": ["human_1", "human_2", "human_3", "human_4", "human_5"]
     },
     "ticks": {
-      "background": [
-        245,
-        245,
-        245,
-        240
-      ],
-      "long": [
-        0,
-        0,
-        0,
-        60
-      ],
-      "short": [
-        0,
-        0,
-        0,
-        35
-      ],
-      "text": [
-        0,
-        0,
-        0,
-        110
-      ]
+      "background": [245, 245, 245, 240],
+      "long": [0, 0, 0, 60],
+      "short": [0, 0, 0, 35],
+      "text": [0, 0, 0, 110]
     },
     "header": {
-      "background": [
-        245,
-        245,
-        245,
-        240
-      ],
-      "text": [
-        0,
-        0,
-        0,
-        110
-      ]
+      "background": [245, 245, 245, 240],
+      "text": [0, 0, 0, 110]
     }
   },
   {
@@ -583,12 +341,7 @@
       "height": 1200,
       "scale": 0.5,
       "offset": -40,
-      "bounds": [
-        -459,
-        4,
-        441,
-        1204
-      ]
+      "bounds": [-459, 4, 441, 1204]
     }
   },
   {
@@ -612,12 +365,7 @@
       "height": 1375,
       "scale": 0.5,
       "offset": 0,
-      "bounds": [
-        -1030,
-        -7.5,
-        1070,
-        1367.5
-      ]
+      "bounds": [-1030, -7.5, 1070, 1367.5]
     }
   },
   {
@@ -636,12 +384,7 @@
     "end": 1291,
     "label": "Crusades",
     "article": "crusades.txt",
-    "accent": [
-      227,
-      21,
-      55,
-      255
-    ],
+    "accent": [227, 21, 55, 255],
     "asset": {
       "source": "Crusades/Crusades.nma",
       "width": 528,
@@ -697,12 +440,7 @@
     "end": 1918,
     "label": "World War I",
     "article": "world_war_i.txt",
-    "accent": [
-      227,
-      21,
-      55,
-      255
-    ],
+    "accent": [227, 21, 55, 255],
     "asset": {
       "source": "World_War_I/World_War_I.nma",
       "width": 528,
@@ -713,12 +451,7 @@
     "start": 1947,
     "end": 1991,
     "label": "Cold War",
-    "accent": [
-      227,
-      21,
-      55,
-      255
-    ],
+    "accent": [227, 21, 55, 255],
     "article": "cold_war.txt",
     "asset": {
       "source": "Cold_war/Cold_war.nma",
@@ -731,12 +464,7 @@
     "date": 1969,
     "label": "Moon Landing",
     "article": "moon_landing.txt",
-    "accent": [
-      115,
-      132,
-      205,
-      255
-    ],
+    "accent": [115, 132, 205, 255],
     "asset": {
       "source": "Moon/Moon.nma",
       "width": 528,
@@ -754,12 +482,7 @@
       "height": 2100,
       "scale": 0.22,
       "offset": 0,
-      "bounds": [
-        -934,
-        -859,
-        916,
-        1241
-      ]
+      "bounds": [-934, -859, 916, 1241]
     }
   },
   {
@@ -812,12 +535,7 @@
     "end": 1945,
     "label": "World War II",
     "article": "world_war_ii.txt",
-    "accent": [
-      227,
-      21,
-      55,
-      255
-    ],
+    "accent": [227, 21, 55, 255],
     "asset": {
       "source": "World_War_II/World_War_II.nma",
       "width": 528,
@@ -851,12 +569,7 @@
   {
     "date": 1990,
     "label": "World Wide Web",
-    "accent": [
-      115,
-      132,
-      205,
-      255
-    ],
+    "accent": [115, 132, 205, 255],
     "article": "internet.txt",
     "asset": {
       "source": "Internet/Internet.nma",
