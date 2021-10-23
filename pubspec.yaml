@@ -26,6 +26,7 @@ dependencies:
   shared_preferences: ^2.0.8
   rxdart: ^0.27.2
   url_launcher: ^6.0.12
+  grinder: ^0.9.0
 
 dev_dependencies:
   flutter_test:
@@ -34,3 +35,60 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: RobotoMedium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+  assets:
+  # App Icons
+    - assets/app_icons/
+    - assets/app_icons/android/
+    - assets/app_icons/ios/
+
+  #Articles as Text
+    - assets/articles/
+
+  #JSON files
+    - assets/json/
+
+  # Images and nima assets
+    - assets/inages/agricultural_evolution/
+    - assets/inages/alan_turing/
+    - assets/inages/amelia_earhart/
+    - assets/inages/apes/
+    - assets/inages/big_bang/
+    - assets/inages/black_plague/
+    - assets/inages/cells/
+    - assets/inages/cold_war/
+    - assets/inages/constantinople/
+    - assets/inages/constructive_tools/
+    - assets/inages/crusades/
+    - assets/inages/darwin/
+    - assets/inages/dinosaur_demise/
+    - assets/inages/dinosaurs/
+    - assets/inages/fire/
+    - assets/inages/first_temple/
+    - assets/inages/fish_and_stuff/
+    - assets/inages/homo_sapiens_sapiens/
+    - assets/inages/industrialization/
+    - assets/inages/insects/
+    - assets/inages/internet/
+    - assets/inages/mammals/
+    - assets/inages/marie_curie/
+    - assets/inages/martin_luther_king/
+    - assets/inages/milky_way/
+    - assets/inages/moon/
+    - assets/inages/nelson_mandela/
+    - assets/inages/newton/
+    - assets/inages/pyramid/
+    - assets/inages/recorded_history/
+    - assets/inages/reptiles/
+    - assets/inages/roma/
+    - assets/inages/sufraggette_movement/
+    - assets/inages/world_war_1/
+    - assets/inages/world_war_2/
+    - assets/inages/writing/
+
